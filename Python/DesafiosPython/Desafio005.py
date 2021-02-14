@@ -1,4 +1,4 @@
-'''Faca um programa que leia um numero inteiro e mostre na tela seu sucessor e antecessor'''
+#Faca um programa que leia um numero inteiro e mostre na tela seu sucessor e antecessor
 print('{:=^50}'.format('Sucessor e Antecessor'))
 n = int(input('Escreva um numero : '))
 sucessor = n+1
